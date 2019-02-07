@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">mpl</string>
+    <string name="don_t_have_account_sign_up">don\'t have account?Sign-up</string>
+    <string name="username_or_e_mail">Username or e-mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">log-in</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="help_in_sign_in">Help in sign-in</string>
+    <string name="or">OR</string>
+    <string name="jivan_patel">JIvan Patel</string>
+    <string name="choose_a_user_name">Choose a user name</string>
+    <string name="name">Name</string>
+    <string name="retype">Retype</string>
+    <string name="start">Start</string>
+    <string name="username">username</string>
+    <string name="create_account">create account</string>
+    <string name="bio_max_500_character">Bio (max 500 character)</string>
+    <string name="change_image">Change image</string>
+    <string name="e_mail">e-mail</string>
+    <string name="edit_profile_info">Edit Profile Info</string>
+    <string name="edit">Edit</string>
+    <string name="submit">submit</string>
+    <string name="mpl_vatera">mpl vatera</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="player_11">Player-11</string>
+    <string name="player_3">Player-3</string>
+    <string name="player_1">Player-1</string>
+    <string name="player_4">Player-4</string>
+    <string name="player_7">Player-7</string>
+    <string name="player_6">Player-6</string>
+    <string name="player_10">Player-10</string>
+    <string name="player_9">Player-9</string>
+    <string name="player_8">Player-8</string>
+    <string name="player_5">Player-5</string>
+    <string name="player_2">Player-2</string>
+    <string name="team_2">Team - 2</string>
+    <string name="search_team">Search Team</string>
+    <string name="team_1">Team - 1</string>
+    <string name="todo">TODO</string>
+    <string name="second_team_name">second team name</string>
+    <string name="first_team_name">First Team name</string>
+    <string name="enter_username_to_serach">enter username to serach</string>
+
+
+    <string-array name="team_name_array">
+        <item>Team-1</item>
+        <item>Team-2</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#d6d6d6</color>
+    <color name="light_gray">#f5f5f5</color>
+    <color name="white">#ffffff</color>
+    <color name="pink">#ff01a6</color>
+
+             <!-- for login page  -->
+    <color name="login_page_background">#00b9ff</color>
+
+    <!-- for sign-up-page  -->
+    <color name="google">#00ffe5</color>
+    <color name="facefook">#001eff</color>
+
+    <!-- for profile activity  -->
+    <color name="starting_color">#00fff2</color>
+    <color name="center_color">#0792f5</color>
+    <color name="ending_color">#9000ff</color>
+</resources>
